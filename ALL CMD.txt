@@ -1,0 +1,8 @@
+ 
+./install.sh
+pip install telebot    
+pip install flask    
+pip install aiogram    
+pip install pyTelegramBotAPI    
+chmod +x *    
+python sxs.py   
